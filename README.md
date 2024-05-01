@@ -1,0 +1,1 @@
+Imprime a quantidade de pessoas em um evento e a entrada e saída de um bilhete
